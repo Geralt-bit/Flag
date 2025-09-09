@@ -1,5 +1,4 @@
 # Flag
-Fakie
 .
 .
 .
@@ -47,4 +46,5 @@ Fakie
 .
 .
 .
-Go to next repository
+.
+Go to another repository 
